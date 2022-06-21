@@ -5,7 +5,7 @@ const vilelaGa = {
   location: 'RJ / Brazil',
   readme: 'Junior Full Stack Developer',
   stacks: [
-    'JavaScript (Ajax, Jquery)', 'PHP', 'MySQL', 'SqlServer', 'HTML5', 'CSS3'
+    'JavaScript (Ajax, Jquery)', 'PHP', 'MySQL', 'SqlServer', 'HTML5', 'CSS3', 'Bootstrap'
   ],
   tools: [
     'Git', 'Docker', 'VSCode' 
