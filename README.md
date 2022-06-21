@@ -1,18 +1,18 @@
 ```js
 const vilelaGa = {
-  name: 'Gabriel Vilela',
+  name: 'Gabriel',
   age: 19,
   location: 'RJ / Brazil',
-  readme: 'Full-stack developer',
+  readme: 'Junior Full Stack Developer',
   stacks: [
-    'JavaScript', 'PHP', 'MySQL', 'Sqlserver', 'PSR-4', 'Estruturas de dados'
+    'JavaScript (Ajax, Jquery)', 'PHP', 'MySQL', 'SqlServer', 'HTML5', 'CSS3'
   ],
   tools: [
-    'Git', 'Docker', 'VSCode', 
+    'Git', 'Docker', 'VSCode' 
   ],
   os: [
     'Windows 10',
-    'MacOs'
+    'macOS'
   ]
 };
 ```
